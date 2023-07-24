@@ -4,12 +4,17 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-Contact me:
-<div id="badges">
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :mailbox:How to reach me: <div id="badges">
   <a href="https://t.me/mihalike">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram Badge"/>
   </a>
 </div>
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,7 +29,7 @@ My stats
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=happyhidra
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=happyhidra&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyhidra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
