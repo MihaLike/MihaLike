@@ -1,4 +1,4 @@
-### Hi 👋, I am Mikhail Okmynaskii
+### Hi 👋, I am Mikhail Okmyanskii
 
 Welcome to my Github!
 
