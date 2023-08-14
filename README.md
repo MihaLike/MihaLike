@@ -39,6 +39,9 @@ https://github.com/HappyHidra/moire
 Vue3 + Typescript (Composition API):
 https://github.com/HappyHidra/vue-ts-composition-api
 
+Vue3(Nuxt3) + Typescript (Composition API)
+https://github.com/HappyHidra/rickandmorty
+
 Vanilla JS:
 https://github.com/HappyHidra/bankProject
 
