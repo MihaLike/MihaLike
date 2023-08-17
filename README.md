@@ -33,19 +33,19 @@ Welcome to my Github!
 
 My projects:</br>
 </br>
-Vue3 (Composition API):
+Vue3 (state maneger Vuex) (Composition API):
 https://github.com/HappyHidra/moire
 
-Vue3 + Typescript (Composition API):
-https://github.com/HappyHidra/vue-ts-composition-api
+Vue3 (state maneger Pinia) + Typescript (Composition API):
+https://github.com/HappyHidra/chat
 
-Vue3(Nuxt3) + Typescript (Composition API)
+Vue3 (Nuxt3 and Pinia) + Typescript (Composition API)
 https://github.com/HappyHidra/rickandmorty
 
 Vanilla JS:
 https://github.com/HappyHidra/bankProject
 
-Vanilla JS + JQuery , backend PHP:
+Vanilla JS + JQuery, backend PHP:
 https://github.com/HappyHidra/game
 
 My stats
