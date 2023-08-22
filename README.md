@@ -42,10 +42,10 @@ https://github.com/HappyHidra/chat
 3) Vue3 (Nuxt3 and Pinia) + Typescript (Composition API)
 https://github.com/HappyHidra/rickandmorty
 
-4) Vanilla JS:
+4) Vanilla JS, backend: Node.js:
 https://github.com/HappyHidra/bankProject
 
-5) Vanilla JS + JQuery, backend PHP:
+5) JS + JQuery, backend: PHP:
 https://github.com/HappyHidra/game
 
 My stats
