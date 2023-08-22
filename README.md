@@ -31,8 +31,8 @@ Welcome to my Github!
 </div>
 &nbsp;
 
-My projects:</br>
-</br>
+### My most interresting repositories:</br>
+
 1) Vue3 (state manager Vuex) (Composition API):
 https://github.com/HappyHidra/moire
 
