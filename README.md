@@ -39,13 +39,16 @@ https://github.com/HappyHidra/moire
 2) Vue3 (state manager Pinia) + Typescript (Composition API):
 https://github.com/HappyHidra/chat
 
-3) Vue3 (Nuxt3 and Pinia) + Typescript (Composition API)
+3) Vue3 + Typescript (Composition API)
+https://happyhidra.github.io/cryptocompare/
+
+5) Vue3 (Nuxt3 and Pinia) + Typescript (Composition API)
 https://github.com/HappyHidra/rickandmorty
 
-4) Vanilla JS, backend: Node.js:
+6) Vanilla JS, backend: Node.js:
 https://github.com/HappyHidra/bankProject
 
-5) JS + JQuery, backend: PHP:
+7) JS + JQuery, backend: PHP:
 https://github.com/HappyHidra/game
 
 My stats
