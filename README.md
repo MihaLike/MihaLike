@@ -34,22 +34,22 @@ Welcome to my Github!
 ### My most interresting repositories:</br>
 
 1) Vue3 (state manager Vuex) (Composition API):
-https://github.com/happyhidra/moire
+https://github.com/mihalike/moire
 
 2) Vue3 (state manager Pinia) + Typescript (Composition API):
-https://github.com/happyhidra/chat
+https://github.com/mihalike/chat
 
 3) Vue3 + Typescript (Composition API)
-https://happyhidra.github.io/cryptocompare/
+https://mihalike.github.io/cryptocompare/
 
 5) Vue3 (Nuxt3 and Pinia) + Typescript (Composition API)
-https://github.com/happyhidra/rickandmorty
+https://github.com/mihalike/rickandmorty
 
 6) Vanilla JS, backend: Node.js:
-https://github.com/happyhidra/bankProject
+https://github.com/mihalike/bankProject
 
 7) JS + JQuery, backend: PHP:
-https://github.com/happyhidra/game
+https://github.com/mihalike/game
 
 My stats
 ---
